@@ -1,0 +1,1 @@
+MVCC only used in repeatable read and read committed
